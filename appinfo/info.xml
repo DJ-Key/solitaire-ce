@@ -8,7 +8,7 @@
 # Solitaire
 A Nextcloud app that lets you play Solitaire.
     ]]></description>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <licence>public</licence>
     <author mail="colin@derben.ca" homepage="https://derben.ca">DerBen</author>
     <namespace>Solitaire</namespace>
@@ -17,7 +17,7 @@ A Nextcloud app that lets you play Solitaire.
     <bugs>https://github.com/derbenx/nextcloud-solitaire/issues</bugs>
     <screenshot>https://raw.githubusercontent.com/derbenx/nextcloud-solitaire/master/Solitaire.png</screenshot>
     <dependencies>
-        <nextcloud min-version="25" max-version="30"/>
+        <nextcloud min-version="25" max-version="34"/>
     </dependencies>
 	    <navigations>
         <navigation>
