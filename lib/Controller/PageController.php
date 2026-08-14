@@ -26,7 +26,7 @@ class PageController extends Controller {
 	 * @NoCSRFRequired
 	 */
 	public function index() {
-        return new TemplateResponse('solitaire-ce', 'index');
+        return new TemplateResponse('solitaire_ce', 'index');
         }
 
 	}
