@@ -23,7 +23,7 @@ A Nextcloud app that lets you play Solitaire.
 	    <navigations>
         <navigation>
             <name>Solitaire</name>
-            <route>solitaire.page.index</route>
+            <route>solitaire_ce.page.index</route>
         </navigation>
     </navigations>
 </info>
