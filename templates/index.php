@@ -1,7 +1,7 @@
 <?php
-script('solitaire', 'cards');
-script('solitaire', 'main');
-style('solitaire', 'sol');
+script('solitaire-ce', 'cards');
+script('solitaire-ce', 'main');
+style('solitaire-ce', 'sol');
 ?>
 
 <?php print_unescaped($this->inc('content/index')); ?>
