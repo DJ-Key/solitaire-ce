@@ -11,7 +11,7 @@ A Nextcloud app that lets you play Solitaire.
     <version>1.0.1</version>
     <licence>public</licence>
     <author mail="colin@derben.ca" homepage="https://derben.ca">DerBen (Original Author)</author>
-	<author mail="danielj.kaplan4@gmail.com" homepage="https://https://github.com/DJ-Key">DJ Key (Maintainer)</author>
+	<author mail="danielj.kaplan4@gmail.com" homepage="https://github.com/DJ-Key">DJ Key (Maintainer)</author>
     <namespace>SolitaireCe</namespace>
     <category>games</category>
 	<website>https://github.com/DJ-Key/solitaire-ce</website>
