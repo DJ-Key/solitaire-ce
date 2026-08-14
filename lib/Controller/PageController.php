@@ -26,12 +26,9 @@ class PageController extends Controller {
 	 * @NoCSRFRequired
 	 */
 	public function index() {
-		$response = new TemplateResponse('solitaire', 'index');  // templates/index.php
-		$csp = new ContentSecurityPolicy();
-		$csp->allowEvalScript(true);
-		$response->setContentSecurityPolicy($csp);
+        return new TemplateResponse('solitaire', 'index');
+        }
 
-		return $response;
 	}
 
 }
