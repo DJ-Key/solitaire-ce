@@ -16,7 +16,7 @@ A Nextcloud app that lets you play Solitaire.
     <category>games</category>
 	<website>https://github.com/DJ-Key/solitaire-ce</website>
     <bugs>https://github.com/DJ-Key/solitaire-ce/issues</bugs>
-    <screenshot>https://raw.githubusercontent.com/DJ-Key/solitaire_ce/master/Solitaire.png</screenshot>
+    <screenshot>https://raw.githubusercontent.com/DJ-Key/solitaire_ce/master/img/Solitaire.png</screenshot>
     <dependencies>
         <nextcloud min-version="25" max-version="34"/>
     </dependencies>
