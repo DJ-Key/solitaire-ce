@@ -8,7 +8,7 @@
 # Solitaire
 A Nextcloud app that lets you play Solitaire.
     ]]></description>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <licence>agpl</licence>
     <author mail="colin@derben.ca" homepage="https://derben.ca">DerBen (Original Author)</author>
 	<author mail="danielj.kaplan4@gmail.com" homepage="https://github.com/DJ-Key">DJ Key (Maintainer)</author>
